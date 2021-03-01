@@ -14,17 +14,17 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Welcome to MuseScore! This brief tour will guide you through the MuseScore user interface.</source>
+        <source>Tervetuloa MuseScore:en!<!--check lehnwort illatives thanks--> This brief tour will guide you through the MuseScore user interface.</source>
         <comment>welcome</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The Playback Controls toolbar allows you to play/pause your score and control various aspects of playback.</source>
+        <source>Toistosäätimien työkalupalkilla voit toistaa/keskeyttää sinun sävellystä ja toiston eri osia.</source>
         <comment>welcome</comment>
-        <translation type="unfinished"></translation>
+        <translation type="finished"></translation>
     </message>
     <message>
-        <source>The Note Input toolbar allows you to enter notes and rests into your score.</source>
+        <source>With The Note Input toolbar työkalupalkilla voit syöttää enter notes and rests into your score.</source>
         <comment>welcome</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -150,16 +150,16 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>That&apos;s the end of this tour!
-    As you use MuseScore, more tours will pop up to further explain functionality.
+        <source>Siinä päättyy tämä esittely.
+    Käyttäessäsi MuseScore lisää esittelyitä ilmestyvät toimintaa tarkemmin esittämään.
     To disable these, deselect &quot;Continue showing tours&quot; before closing this window.
     You can also enable/disable tours in Help / Tours.</source>
         <comment>welcome</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Welcome to the Timeline, where you can view a reduction of the score for easier navigation.
-    Click &quot;Next&quot; to learn more.</source>
+        <source>Tervetuloa Aikajanaan, jossa voit katsoa sävellyn a reduction of the score jotta sinun on helpompi suunnistaa.
+            Klikkaamalla &quot;Seuraava&quot; saat lisätietoja.</source>
         <comment>timeline-tour</comment>
         <translation type="unfinished"></translation>
     </message>
