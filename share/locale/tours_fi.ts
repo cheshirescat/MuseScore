@@ -14,7 +14,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tervetuloa MuseScore:en!<!--check lehnwort illatives thanks--> This brief tour will guide you through the MuseScore user interface.</source>
+        <source>Tervetuloa MuseScore:en! This brief tour will guide you through the MuseScore user interface.</source>
         <comment>welcome</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -24,12 +24,12 @@
         <translation type="finished"></translation>
     </message>
     <message>
-        <source>With The Note Input toolbar työkalupalkilla voit syöttää enter notes and rests into your score.</source>
+        <source> Muistiinpanosyötteen työkalupalkilla voit syöttää nuotteja ja nuottitelineitä partituuriisi.</source>
         <comment>welcome</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The Palettes allow you to add most other notation elements to your score.</source>
+        <source>Paletilla voit lisätä useimipia toisia add most other notation elements to your score.</source>
         <comment>welcome</comment>
         <translation type="unfinished"></translation>
     </message>
