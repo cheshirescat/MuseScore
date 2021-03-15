@@ -4,9 +4,9 @@
 <context>
     <name>TourXML</name>
     <message>
-        <source>To add a note to a chord, press Shift while typing its letter name, or click on the staff.</source>
+        <source>Lisää nuottia soinnulle painamalla Shift-näppäinta ja näppäilemässä nuottin kirjettä, vai napauttamalla nuottiviivastoa.</source>
         <comment>note-input</comment>
-        <translation type="unfinished"></translation>
+        <translation type="finished"></translation>
     </message>
     <message>
         <source>To create a triplet or other tuplet, select the duration representing the total length of the tuplet, then press Ctrl+number or use Add / Tuplets.</source>
@@ -26,7 +26,7 @@
     <message>
         <source> Muistiinpanosyötteen työkalupalkilla voit syöttää nuotteja ja nuottitelineitä partituuriisi.</source>
         <comment>welcome</comment>
-        <translation type="unfinished"></translation>
+        <translation type="finished"></translation>
     </message>
     <message>
         <source>Paletilla voit lisätä useimipia toisia add most other notation elements to your score.</source>
@@ -44,7 +44,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Welcome to the Palettes, where you will add various elements to your score. Click &quot;Next&quot; to learn more.</source>
+        <source>Tervetuloa to the Palettes, where you will add various elements to your score. Click &quot;Next&quot; to learn more.</source>
         <comment>show-palette</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -140,14 +140,14 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>To enter a rest of the selected duration, press the shortcut &quot;0&quot;, or select this icon then click on the staff.</source>
+        <source>Syötä taukomerkkiä valitulla kestolla painamalla pikanäppäintä &quot;0&quot;, vai valitsemalla tätä kuvaketta ja sitten napauttamalla nuottiviivastoa.</source>
         <comment>note-input</comment>
-        <translation type="unfinished"></translation>
+        <translation type="finished"></translation>
     </message>
     <message>
-        <source>To extend a note by adding a tied note, select the duration to extend by, then press &quot;+&quot; or click this button.</source>
+        <source>Pidennä nuotti yhdyskaarilla valitsemalla kestoa jolla pidentää, ja sitten painamalla &quot;+&quot; vai napauttamalla tätä painiketta.</source>
         <comment>note-input</comment>
-        <translation type="unfinished"></translation>
+        <translation type="finished"></translation>
     </message>
     <message>
         <source>Siinä päättyy tämä esittely.
