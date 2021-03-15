@@ -4,9 +4,9 @@
 <context>
     <name>TourXML</name>
     <message>
-        <source>To add a note to a chord, press Shift while typing its letter name, or click on the staff.</source>
+        <source>Lisää nuottia soinnulle painamalla Shift-näppäinta ja näppäilemässä nuottin kirjettä, vai napauttamalla nuottiviivastoa.</source>
         <comment>note-input</comment>
-        <translation type="unfinished"></translation>
+        <translation type="finished"></translation>
     </message>
     <message>
         <source>To create a triplet or other tuplet, select the duration representing the total length of the tuplet, then press Ctrl+number or use Add / Tuplets.</source>
@@ -14,22 +14,22 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Welcome to MuseScore! This brief tour will guide you through the MuseScore user interface.</source>
+        <source>Tervetuloa MuseScore:en! This brief tour will guide you through the MuseScore user interface.</source>
         <comment>welcome</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The Playback Controls toolbar allows you to play/pause your score and control various aspects of playback.</source>
+        <source>Toistosäätimien työkalupalkilla voit toistaa/keskeyttää sinun sävellystä ja toiston eri osia.</source>
         <comment>welcome</comment>
-        <translation type="unfinished"></translation>
+        <translation type="finished"></translation>
     </message>
     <message>
-        <source>The Note Input toolbar allows you to enter notes and rests into your score.</source>
+        <source> Muistiinpanosyötteen työkalupalkilla voit syöttää nuotteja ja nuottitelineitä partituuriisi.</source>
         <comment>welcome</comment>
-        <translation type="unfinished"></translation>
+        <translation type="finished"></translation>
     </message>
     <message>
-        <source>The Palettes allow you to add most other notation elements to your score.</source>
+        <source>Paletilla voit lisätä useimipia toisia add most other notation elements to your score.</source>
         <comment>welcome</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -44,7 +44,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Welcome to the Palettes, where you will add various elements to your score. Click &quot;Next&quot; to learn more.</source>
+        <source>Tervetuloa to the Palettes, where you will add various elements to your score. Click &quot;Next&quot; to learn more.</source>
         <comment>show-palette</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -140,26 +140,26 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>To enter a rest of the selected duration, press the shortcut &quot;0&quot;, or select this icon then click on the staff.</source>
+        <source>Syötä taukomerkkiä valitulla kestolla painamalla pikanäppäintä &quot;0&quot;, vai valitsemalla tätä kuvaketta ja sitten napauttamalla nuottiviivastoa.</source>
         <comment>note-input</comment>
-        <translation type="unfinished"></translation>
+        <translation type="finished"></translation>
     </message>
     <message>
-        <source>To extend a note by adding a tied note, select the duration to extend by, then press &quot;+&quot; or click this button.</source>
+        <source>Pidennä nuotti yhdyskaarilla valitsemalla kestoa jolla pidentää, ja sitten painamalla &quot;+&quot; vai napauttamalla tätä painiketta.</source>
         <comment>note-input</comment>
-        <translation type="unfinished"></translation>
+        <translation type="finished"></translation>
     </message>
     <message>
-        <source>That&apos;s the end of this tour!
-    As you use MuseScore, more tours will pop up to further explain functionality.
+        <source>Siinä päättyy tämä esittely.
+    Käyttäessäsi MuseScore lisää esittelyitä ilmestyvät toimintaa tarkemmin esittämään.
     To disable these, deselect &quot;Continue showing tours&quot; before closing this window.
     You can also enable/disable tours in Help / Tours.</source>
         <comment>welcome</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Welcome to the Timeline, where you can view a reduction of the score for easier navigation.
-    Click &quot;Next&quot; to learn more.</source>
+        <source>Tervetuloa Aikajanaan, jossa voit katsoa sävellyn a reduction of the score jotta sinun on helpompi suunnistaa.
+            Klikkaamalla &quot;Seuraava&quot; saat lisätietoja.</source>
         <comment>timeline-tour</comment>
         <translation type="unfinished"></translation>
     </message>
