@@ -9,14 +9,14 @@
         <translation type="finished"></translation>
     </message>
     <message>
-        <source>To create a triplet or other tuplet, select the duration representing the total length of the tuplet, then press Ctrl+number or use Add / Tuplets.</source>
+        <source>Luo triolia tai muuta tuplettia valitsemalla koko tuplettin kestoa ja sitten painalla Ctrl+numeroa tai käyttämällä Lisää / Tupletit.</source>
         <comment>note-input</comment>
-        <translation type="unfinished"></translation>
+        <translation type="finished"></translation>
     </message>
     <message>
-        <source>Tervetuloa MuseScore:en! This brief tour will guide you through the MuseScore user interface.</source>
+        <source>Tervetuloa MuseScore:en! Tämä lyhyt esittely opastaa MuseScore-käyttöliittymän läpi.</source>
         <comment>welcome</comment>
-        <translation type="unfinished"></translation>
+        <translation type="finished"></translation>
     </message>
     <message>
         <source>Toistosäätimien työkalupalkilla voit toistaa/keskeyttää sinun sävellystä ja toiston eri osia.</source>
@@ -29,9 +29,9 @@
         <translation type="finished"></translation>
     </message>
     <message>
-        <source>Paletilla voit lisätä useimipia toisia add most other notation elements to your score.</source>
+        <source>Paletilla voit lisätä useimpia toisia nuottikirjoituskohtia partituurillesi.</source>
         <comment>welcome</comment>
-        <translation type="unfinished"></translation>
+        <translation type="finished"></translation>
     </message>
     <message>
         <source>The Inspector allows you to control various details of the elements in your score.</source>
@@ -44,9 +44,9 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tervetuloa to the Palettes, where you will add various elements to your score. Click &quot;Next&quot; to learn more.</source>
+        <source>Tervetuloa Palettihin, joilla voit lisätä eri kohtia partituurillesi. Lue lisää klikkaamalla &quot;Seuraava&quot;.</source>
         <comment>show-palette</comment>
-        <translation type="unfinished"></translation>
+        <translation type="finished"></translation>
     </message>
     <message>
         <source>To enter a note of the selected duration, type its letter name or click on the staff.
